@@ -27,6 +27,7 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 </div>
   <br>
+  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Akimi0203&theme=radical&show_icons=true)](https://github.com/Akimi0203)
 
