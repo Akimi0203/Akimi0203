@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Akimi0203&theme=radical&show_icons=true)](https://github.com/Akimi0203)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Akimi0203&theme=radical&show_icons=true)](https://github.com/Akmi0203/github-readme-stats)
+
 
   
 
