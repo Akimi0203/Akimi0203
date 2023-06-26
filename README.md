@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Akimi0203&theme=radical&show_icons=true)](https://github.com/Akimi0203)
 
 
-
-  
-
 ![Snake animation](https://github.com/UT0P1C/UT0P1C/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
