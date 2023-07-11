@@ -13,7 +13,7 @@ Este mundo lleno de infinitas posibilidades me fascina y sigo en este complicado
 <br>
 <br>
 <br>
-<br/>
+
 <div align="center">
   <a href="https://github.com/Akimi0203/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Akimi0203&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" />
