@@ -33,10 +33,7 @@ Este mundo lleno de infinitas posibilidades me fascina y sigo en este complicado
 
 
 
-<div align="center">
-     <img src="https://komarev.com/ghpvc/?username=christianebs&color=CC6699&style=plastic"/>
-</div>
-  
+
 
 
 
