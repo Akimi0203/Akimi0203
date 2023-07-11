@@ -13,15 +13,9 @@ Este mundo lleno de infinitas posibilidades me fascina y sigo en este complicado
 <br>
 <br>
 <br>
-
-<div align="center">
-  <a href="https://github.com/Akimi0203/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Akimi0203&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akimi0203&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/></a>
-</div>
 <br>
-</br>
 
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=CC6699">
@@ -30,10 +24,15 @@ Este mundo lleno de infinitas posibilidades me fascina y sigo en este complicado
   <img src="https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=CC6699">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=CC6699">
 </p>
+<br>
 
 
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akimi0203&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lívia Akimi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akimi0203&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 
 
